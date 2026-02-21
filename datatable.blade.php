@@ -1,4 +1,3 @@
-@vite(['resources/js/search_box.js'])
 @props([
     'data' => [],
 ])
