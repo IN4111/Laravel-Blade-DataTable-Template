@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded',function(){
 ```text
   Laravel>12.0
   jQuery>=4.0.0
+  Alpinejs>=3.15.3
   Fontawesome-free>=7.1.0
 ```
 
